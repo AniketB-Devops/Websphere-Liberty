@@ -1,0 +1,9 @@
+PH65108 OLGH30711: UnknownHostException causes loop in RESTMBeanServerConnection.java
+OLGH30598 `enable-directory-browsing="true"` does not work with EE10 and later
+OLGH30711 [PH65108]: UnknownHostException causes loop in RESTMBeanServerConnection.java
+OLGH30757 Liberty Closes the Persistent Connection in error state
+OLGH30758 JMX client doesn't fully consume heartbeat input stream, leaving sockets in CLOSE_WAIT state
+OLGH30858 otel.java.disabled.resource.providers is ignored by Liberty when creating OpenTelemetrySdk objects
+OLGH30861 JSPErrorReport: unexpected tag: 15 in SDEInstaller
+OLGH30890 Enterprise bean arguments not provided to JACC / Jakarta Authorization PolicyContext handler
+OLGH30959 NullPointerException can happen when starting mpOpenAPI features
